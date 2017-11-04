@@ -1,0 +1,5 @@
+c:\users\tony stark\documents\visual studio 2013\Projects\hola_mundo\hola_mundo\bin\Debug\hola_mundo.exe.config
+c:\users\tony stark\documents\visual studio 2013\Projects\hola_mundo\hola_mundo\bin\Debug\hola_mundo.exe
+c:\users\tony stark\documents\visual studio 2013\Projects\hola_mundo\hola_mundo\bin\Debug\hola_mundo.pdb
+c:\users\tony stark\documents\visual studio 2013\Projects\hola_mundo\hola_mundo\obj\Debug\hola_mundo.exe
+c:\users\tony stark\documents\visual studio 2013\Projects\hola_mundo\hola_mundo\obj\Debug\hola_mundo.pdb
